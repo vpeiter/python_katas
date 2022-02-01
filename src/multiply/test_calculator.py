@@ -1,4 +1,4 @@
-"""Test Calculator Module"""
+# pylint: disable=missing-docstring
 import unittest
 
 from parameterized import parameterized
